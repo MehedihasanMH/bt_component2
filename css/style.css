@@ -1,0 +1,14 @@
+.header, .body_2, .body_3 , .body_5, .body_6, .body_7, .body_9{
+	padding: 10px 0;
+	margin-bottom: 10px;
+	min-height: 100px;
+	background-color: teal;
+}
+.box{
+	min-height: 80px;
+}
+.box1{
+	min-height: 20px;
+	min-width: 10px;
+	background-color: red;
+}
